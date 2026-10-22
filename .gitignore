@@ -1,0 +1,6 @@
+google_profile/
+env/
+.env
+venv/
+__pycache__/
+config.py
